@@ -1,0 +1,1 @@
+alert('Sk vous souhaite la bienvenue !')
